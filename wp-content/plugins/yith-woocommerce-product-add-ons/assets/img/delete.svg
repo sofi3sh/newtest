@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_delete</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.614980 0 0 0 0 0.614980 0 0 0 0 0.614980 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_delete" transform="translate(-1320.000000, -1372.000000)" filter="url(#filter-1)">
+            <g transform="translate(1320.500000, 1372.500000)" id="Icon-24px">
+                <path d="M3.75,11.875 C3.75,12.5625 4.3125,13.125 5,13.125 L10,13.125 C10.6875,13.125 11.25,12.5625 11.25,11.875 L11.25,4.375 L3.75,4.375 L3.75,11.875 L3.75,11.875 Z M11.875,2.5 L9.6875,2.5 L9.0625,1.875 L5.9375,1.875 L5.3125,2.5 L3.125,2.5 L3.125,3.75 L11.875,3.75 L11.875,2.5 L11.875,2.5 Z" id="Shape" fill="#000000"></path>
+                <polygon id="Shape" points="0 0 15 0 15 15 0 15"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

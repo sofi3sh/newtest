@@ -1,0 +1,2986 @@
+# Copyright (C) 2021 YITH WooCommerce Product Add-ons & Extra Options Premium
+# This file is distributed under the same license as the YITH WooCommerce Product Add-ons & Extra Options Premium package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Product Add-ons & Extra Options Premium 2.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/init\n"
+"POT-Creation-Date: 2021-09-24 09:13:09+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-yith-wapo-admin.php:157
+msgid "Your Inspiration Themes"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:161
+#: includes/classes/class.yith-wapo-admin.php:194
+msgid "Plugin Documentation"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:165
+msgid "Plugin Site"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:169
+msgid "Live Demo"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:241
+msgid "Options Blocks"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:244
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:245 templates/admin/addon-editor.php:49
+msgid "Style"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:249 templates/admin/debug.php:21
+msgid "Debug"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:253
+#: includes/classes/class.yith-wapo-admin.php:149
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:273
+msgctxt "[HELP TAB] Video title"
+msgid "Check this video to learn how to <b>create an options block and show it in a product page:</b>"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:545
+#: includes/classes/class.yith-wapo-admin.php:158
+#: includes/classes/class.yith-wapo-admin.php:159
+#: includes/classes/class.yith-wapo-admin.php:512
+msgid "Product Add-Ons"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:564
+#: includes/classes/class.yith-wapo-admin.php:572
+msgid "Disable Globals"
+msgstr ""
+
+#: includes/class-yith-wapo-admin.php:565
+#: includes/classes/class.yith-wapo-admin.php:573
+msgid "Check this box if you want to disable global groups and use only the above ones!"
+msgstr ""
+
+#: includes/class-yith-wapo-cart.php:72
+msgid "Required field."
+msgstr ""
+
+#: includes/class-yith-wapo-cart.php:215 includes/class-yith-wapo-cart.php:417
+msgid "Option"
+msgstr ""
+
+#: includes/class-yith-wapo-front.php:277
+#: templates/frontend/yith-wapo-group-container.php:73
+msgid "Product price"
+msgstr ""
+
+#: includes/class-yith-wapo-front.php:282
+msgid "Total options"
+msgstr ""
+
+#: includes/class-yith-wapo-front.php:286
+msgid "Order total"
+msgstr ""
+
+#: includes/class-yith-wapo-front.php:505
+#: includes/classes/class.yith-wapo-frontend.php:274
+#: includes/integrations/class.divi-et-builder_module.php:24
+msgid "This is not a product page!"
+msgstr ""
+
+#: includes/class-yith-wapo.php:169 templates/admin/addons/html_heading.php:16
+msgid "Heading"
+msgstr ""
+
+#: includes/class-yith-wapo.php:173
+#: includes/classes/class.yith-wapo-admin.php:411
+#: includes/classes/class.yith-wapo-premium.php:36
+#: templates/admin/addons/html_text.php:16
+msgid "Text"
+msgstr ""
+
+#: includes/class-yith-wapo.php:177
+#: templates/admin/addons/html_separator.php:16
+msgid "Separator"
+msgstr ""
+
+#: includes/class-yith-wapo.php:193
+#: includes/classes/class.yith-wapo-admin.php:409
+#: includes/classes/class.yith-wapo-premium.php:34
+msgid "Checkbox"
+msgstr ""
+
+#: includes/class-yith-wapo.php:197
+msgid "Radio"
+msgstr ""
+
+#: includes/class-yith-wapo.php:201
+msgid "Input text"
+msgstr ""
+
+#: includes/class-yith-wapo.php:205
+#: includes/classes/class.yith-wapo-premium.php:43
+msgid "Textarea"
+msgstr ""
+
+#: includes/class-yith-wapo.php:209
+msgid "Color swatch"
+msgstr ""
+
+#: includes/class-yith-wapo.php:213
+#: includes/classes/class.yith-wapo-premium.php:41
+msgid "Number"
+msgstr ""
+
+#: includes/class-yith-wapo.php:217
+#: includes/classes/class.yith-wapo-premium.php:42
+msgid "Select"
+msgstr ""
+
+#: includes/class-yith-wapo.php:221
+msgid "Label or image"
+msgstr ""
+
+#: includes/class-yith-wapo.php:225 templates/admin/addons/product.php:20
+msgid "Product"
+msgstr ""
+
+#: includes/class-yith-wapo.php:229
+#: includes/classes/class.yith-wapo-premium.php:38
+msgid "Date"
+msgstr ""
+
+#: includes/class-yith-wapo.php:233
+msgid "File upload"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:146
+#: plugin-options/general-options.php:14
+msgid "General"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:152
+msgid "Variations"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:198
+msgid "Support platform"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:239
+#: includes/classes/class.yith-wapo-admin.php:240
+#: plugin-options/general-options.php:81
+#: templates/admin/yith-wapo-groups.php:66
+msgid "Add-ons"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:247
+#: includes/classes/class.yith-wapo-admin.php:248
+msgid "Add-ons Group"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:255
+#: includes/classes/class.yith-wapo-admin.php:256
+msgid "Add-ons Options"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:388
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:389
+msgid "Custom Image"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:390
+msgid "Upload Image"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:410
+#: includes/classes/class.yith-wapo-premium.php:35
+msgid "Radio Button"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:418
+#: includes/classes/class.yith-wapo-premium.php:55
+msgid "Variations Requirements"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:419
+#: includes/classes/class.yith-wapo-admin.php:442
+#: includes/classes/class.yith-wapo-admin.php:448
+#: includes/classes/class.yith-wapo-admin.php:454
+#: includes/classes/class.yith-wapo-admin.php:460
+#: includes/classes/class.yith-wapo-admin.php:466
+#: includes/classes/class.yith-wapo-admin.php:472
+#: includes/classes/class.yith-wapo-admin.php:478
+#: includes/classes/class.yith-wapo-admin.php:484
+#: includes/classes/class.yith-wapo-admin.php:490
+#: includes/classes/class.yith-wapo-admin.php:496
+msgid "premium"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:420
+#: includes/classes/class.yith-wapo-premium.php:56
+msgid "Show this add-on to users only if they have first selected one of the following variations."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:422
+#: includes/classes/class.yith-wapo-premium.php:73
+msgid "Choose required variations"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:429
+#: includes/classes/class.yith-wapo-premium.php:82
+msgid "Operator"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:430
+#: includes/classes/class.yith-wapo-premium.php:83
+msgid "Select the operator for Options Requirements. Default: OR"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:439
+#: includes/classes/class.yith-wapo-premium.php:106
+msgid "The first"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:441
+#: includes/classes/class.yith-wapo-premium.php:108
+msgid "options are free"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:446
+#: includes/classes/class.yith-wapo-premium.php:112
+msgid "Limit selectable elements"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:447
+#: includes/classes/class.yith-wapo-premium.php:113
+msgid "Set the maximum number of elements that users can select for this add-on, 0 means no limits (works only with checkboxes)"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:452
+#: includes/classes/class.yith-wapo-premium.php:123
+msgid "Max input values amount"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:453
+#: includes/classes/class.yith-wapo-premium.php:124
+msgid "Set the maximum amount for the sum of the input values"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:458
+#: includes/classes/class.yith-wapo-premium.php:128
+msgid "Min input values amount"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:459
+#: includes/classes/class.yith-wapo-premium.php:129
+msgid "Set the minimum amount for the sum of the input values"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:464
+#: includes/classes/class.yith-wapo-premium.php:133
+#: templates/frontend/yith-wapo-group-type.php:85
+msgid "Sold individually"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:465
+#: includes/classes/class.yith-wapo-premium.php:134
+msgid "Check this box, if you want the selected add-ons not to increase if the product quantity changes."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:470
+#: includes/classes/class.yith-wapo-premium.php:138
+msgid "Replace the product image"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:471
+#: includes/classes/class.yith-wapo-premium.php:139
+msgid "Check this box, if you want that the selected add-ons replace the product image."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:476
+#: includes/classes/class.yith-wapo-premium.php:143
+msgid "Calculate quantity by values amount"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:477
+#: includes/classes/class.yith-wapo-premium.php:144
+msgid "Check this box, if you want that the quantity input will be updated with the sum of all add-ons values."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:482
+#: includes/classes/class.yith-wapo-frontend.php:618
+#: includes/classes/class.yith-wapo-premium.php:148
+#: templates/admin/addons/date.php:743
+#: templates/admin/option-common-fields.php:300
+#: templates/admin/yith-wapo-form-option-type.php:247
+#: templates/admin/yith-wapo-form-option-type.php:350
+#: templates/admin/yith-wapo-group-addons.php:95
+#: templates/admin/yith-wapo-new-option.php:11
+#: templates/admin/yith-wapo-new-option.php:52
+#: templates/frontend/yith-wapo-group-type.php:84
+msgid "Required"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:483
+#: includes/classes/class.yith-wapo-premium.php:149
+msgid "Check this option if you want the add-ons to be selected"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:488
+#: includes/classes/class.yith-wapo-premium.php:153
+msgid "All options required"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:489
+#: includes/classes/class.yith-wapo-premium.php:154
+msgid "Check this option if you want that the add-ons have all options required."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:494
+#: includes/classes/class.yith-wapo-premium.php:158
+msgid "Collapsed by default"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:495
+#: includes/classes/class.yith-wapo-premium.php:159
+msgid "If not selected it will take settings in Admin > YITH Plugins > Product Add-ons"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:531
+#: includes/classes/class.yith-wccl-admin.php:819
+#: templates/admin/blocks-table.php:32 templates/admin/yith-wapo-groups.php:65
+msgid "Name"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:532
+#: templates/admin/yith-wapo-group.php:47
+msgid "Group name"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:533
+msgid "Add Group"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:543
+msgid "hidden group."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:546
+msgid "private, visible to administrators only."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:549
+#: includes/classes/class.yith-wapo-admin.php:552
+#: includes/classes/class.yith-wapo-admin.php:617
+msgid "public, visible to everyone."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:558
+#: includes/classes/class.yith-wapo-admin.php:617
+#: templates/admin/yith-wapo-group-addons.php:31
+#: templates/admin/yith-wapo-group.php:29
+msgid "Group"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:559
+#: includes/classes/class.yith-wapo-admin.php:618
+msgid "Manage"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:584
+msgid "Manage all groups"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:609
+msgid "NO NAME"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:610
+msgid "DB ERROR"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:934
+msgid "Add-On Requirements: "
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:950
+msgctxt "admin labels for add-ons list"
+msgid "Variations Requirements: "
+msgstr ""
+
+#: includes/classes/class.yith-wapo-admin.php:972
+#: includes/classes/class.yith-wapo-admin.php:997
+#: includes/functions/yith-wapo.php:84 templates/admin/yith-wapo-group.php:58
+msgid "Applied to..."
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:124
+#: includes/classes/class.yith-wapo-frontend.php:875
+msgid "Select options"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:359
+msgid "Clear"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:360
+msgid "Default"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:361
+msgid "Select color"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:362
+msgid "Current color"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:396
+msgid "Error: Wrong selection!"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:938
+msgid "Buy now"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:1240
+msgid "Base price"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-frontend.php:1345
+msgctxt "notice on admin order item meta"
+msgid "* Sold individually"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:26
+msgid "Excluded Products"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:37
+#: templates/admin/option-common-fields.php:71
+#: templates/admin/option-common-fields.php:91
+msgid "Color"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:39
+msgid "Labels"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:40
+msgid "Multiple Labels"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:44
+msgid "File"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-premium.php:118
+msgid "Minimum product quantity"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-type.php:743
+#: includes/classes/class.yith-wapo-type.php:816
+msgid "Uploading error: %s extension is not allowed"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-type.php:756
+msgid "Attached file"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-type.php:829
+msgid "Uploading error: %s exceeded max size allowed for this file"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-type.php:954
+#: templates/admin/yith-wapo-form-option-type.php:422
+msgid "Continue"
+msgstr ""
+
+#: includes/classes/class.yith-wapo-type.php:955
+#: templates/admin/addon-editor.php:163
+#: templates/admin/yith-wapo-form-option-type.php:425
+msgid "Cancel"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:192
+#: templates/admin/yith-wapo-form-option-type.php:199
+msgid "Settings"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:193
+msgid "Single Variations"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:199
+msgid "YITH WooCommerce Color and Label Variations"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:200
+msgid "Color and Label Variations"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:498
+#: includes/classes/class.yith-wccl-admin.php:527
+#: includes/classes/class.yith-wccl-admin.php:833
+#: plugin-options/general-options.php:172 plugin-options/style-options.php:309
+#: templates/admin/option-common-fields.php:132
+#: templates/admin/yith-wapo-form-option-type.php:263
+#: templates/admin/yith-wapo-form-option-type.php:300
+#: templates/admin/yith-wapo-new-option.php:23
+msgid "Tooltip"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:499
+#: includes/classes/class.yith-wccl-admin.php:528
+msgid "Use this placeholder {show_image} to show the image on tooltip. Only available for image type"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:645
+#: includes/classes/class.yith-wccl-admin.php:826
+msgid "Value"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:732
+msgid "Select terms"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:744
+msgid "Select all"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:746
+msgid "Select none"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:748
+#: templates/admin/yith-wapo-groups.php:25
+msgid "Add new"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:814
+msgid "Create new attribute term"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:822
+msgid "Slug"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:867
+msgid "A value is required for this term"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:935
+#: templates/admin/variation-gallery.php:22
+msgctxt "label for remove single image from variation gallery"
+msgid "Remove image"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:962
+msgid "Enable this option to show this variation in archive pages"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:963
+msgid "Show in archive pages?"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:987
+msgid "Hide in archive pages?"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-admin.php:988
+msgid "Virtual products are intangible and are not shipped."
+msgstr ""
+
+#: includes/classes/class.yith-wccl-frontend.php:195
+msgid "View Cart"
+msgstr ""
+
+#: includes/classes/class.yith-wccl-frontend.php:898
+msgid " \"%1$s\" has been added to cart correctly"
+msgstr ""
+
+#: includes/functions/yith-wapo.php:65
+msgid "is enabled but not effective. It requires WooCommerce in order to work."
+msgstr ""
+
+#: includes/functions/yith-wccl.php:69
+msgid "Colorpicker"
+msgstr ""
+
+#: includes/functions/yith-wccl.php:70
+#: templates/admin/option-common-fields.php:111
+#: templates/admin/option-common-fields.php:171
+#: templates/admin/yith-wapo-form-option-type.php:99
+#: templates/admin/yith-wapo-form-option-type.php:198
+msgid "Image"
+msgstr ""
+
+#: includes/functions/yith-wccl.php:71
+#: templates/admin/option-common-fields.php:48
+msgid "Label"
+msgstr ""
+
+#: includes/integrations/class.divi-et-builder_module.php:8
+msgid "YITH Product Add-ons"
+msgstr ""
+
+#: plugin-options/general-options.php:20
+#: plugin-options/variations-options.php:99
+msgid "Show add-ons"
+msgstr ""
+
+#: plugin-options/general-options.php:24
+#: plugin-options/variations-options.php:103
+msgid "Before \"Add to cart\" button"
+msgstr ""
+
+#: plugin-options/general-options.php:25
+#: plugin-options/variations-options.php:104
+msgid "After \"Add to cart\" button"
+msgstr ""
+
+#: plugin-options/general-options.php:30
+#: plugin-options/variations-options.php:111
+msgid "\"Add to cart\" button label"
+msgstr ""
+
+#: plugin-options/general-options.php:32
+msgid "Change button label."
+msgstr ""
+
+#: plugin-options/general-options.php:34
+msgid "Select Options"
+msgstr ""
+
+#: plugin-options/general-options.php:40
+msgid "Show product price in \"cart page\""
+msgstr ""
+
+#: plugin-options/general-options.php:44
+msgid "Checking this option allows you to show the product base price in cart"
+msgstr ""
+
+#: plugin-options/general-options.php:51
+msgid "Always show the price table"
+msgstr ""
+
+#: plugin-options/general-options.php:55
+msgid "Checking this option allows you to always show the price table even if the amount of the add-ons is 0 in the single product page"
+msgstr ""
+
+#: plugin-options/general-options.php:59
+msgid "Enable loop \"add to cart\""
+msgstr ""
+
+#: plugin-options/general-options.php:63
+msgid "Enable again the \"add to cart\" features in shop and categories pages"
+msgstr ""
+
+#: plugin-options/general-options.php:67
+msgid "Disable \"labels\" features"
+msgstr ""
+
+#: plugin-options/general-options.php:71
+msgid "Disable them if you have conflicts with theme features"
+msgstr ""
+
+#: plugin-options/general-options.php:87
+msgid "Show add-on titles"
+msgstr ""
+
+#: plugin-options/general-options.php:93
+msgid "Show add-on images"
+msgstr ""
+
+#: plugin-options/general-options.php:99
+msgid "Show add-on descriptions"
+msgstr ""
+
+#: plugin-options/general-options.php:105
+msgid "Enable \"collapse\" feature"
+msgstr ""
+
+#: plugin-options/general-options.php:111
+msgid "Show add-ons collapsed"
+msgstr ""
+
+#: plugin-options/general-options.php:117
+msgid "Enable Textarea Editor"
+msgstr ""
+
+#: plugin-options/general-options.php:123
+msgid "\"Replace Image\" method"
+msgstr ""
+
+#: plugin-options/general-options.php:127
+msgid "Standard method"
+msgstr ""
+
+#: plugin-options/general-options.php:128
+msgid "Alternative method"
+msgstr ""
+
+#: plugin-options/general-options.php:129
+msgid "Divi method"
+msgstr ""
+
+#: plugin-options/general-options.php:130
+msgid "Paul's method"
+msgstr ""
+
+#: plugin-options/general-options.php:132
+msgid "Select this option if the image replacement feature doesn't work properly with your theme"
+msgstr ""
+
+#: plugin-options/general-options.php:142
+msgid "Options"
+msgstr ""
+
+#: plugin-options/general-options.php:148
+msgid "Show option images"
+msgstr ""
+
+#: plugin-options/general-options.php:155
+msgid "Date Format"
+msgstr ""
+
+#: plugin-options/general-options.php:157
+msgid "Set the format of the date control E.g."
+msgstr ""
+
+#: plugin-options/general-options.php:178
+msgid "Show Tooltip"
+msgstr ""
+
+#: plugin-options/general-options.php:184
+msgid "Tooltip icon"
+msgstr ""
+
+#: plugin-options/general-options.php:191
+#: plugin-options/variations-options.php:67
+msgid "Tooltip background"
+msgstr ""
+
+#: plugin-options/general-options.php:192
+#: plugin-options/general-options.php:199
+#: plugin-options/variations-options.php:68
+#: plugin-options/variations-options.php:76
+msgid "Pick a color"
+msgstr ""
+
+#: plugin-options/general-options.php:198
+#: plugin-options/variations-options.php:75
+msgid "Tooltip text color"
+msgstr ""
+
+#: plugin-options/general-options.php:205 plugin-options/style-options.php:352
+#: plugin-options/variations-options.php:43
+msgid "Tooltip position"
+msgstr ""
+
+#: plugin-options/general-options.php:206
+#: plugin-options/variations-options.php:44
+msgid "Select tooltip position"
+msgstr ""
+
+#: plugin-options/general-options.php:209 plugin-options/style-options.php:358
+#: plugin-options/variations-options.php:47
+msgid "Top"
+msgstr ""
+
+#: plugin-options/general-options.php:210 plugin-options/style-options.php:359
+#: plugin-options/variations-options.php:48
+msgid "Bottom"
+msgstr ""
+
+#: plugin-options/general-options.php:216
+#: plugin-options/variations-options.php:55
+msgid "Tooltip animation"
+msgstr ""
+
+#: plugin-options/general-options.php:217
+#: plugin-options/variations-options.php:56
+msgid "Select tooltip animation"
+msgstr ""
+
+#: plugin-options/general-options.php:220
+#: plugin-options/variations-options.php:59
+msgid "Fade in"
+msgstr ""
+
+#: plugin-options/general-options.php:221
+#: plugin-options/variations-options.php:60
+msgid "Slide in"
+msgstr ""
+
+#: plugin-options/general-options.php:232
+msgid "Uploading options"
+msgstr ""
+
+#: plugin-options/general-options.php:238
+msgid "Uploading folder name"
+msgstr ""
+
+#: plugin-options/general-options.php:240
+msgid "Changes will only affect future uploads."
+msgstr ""
+
+#: plugin-options/general-options.php:247
+msgid "Uploading file types"
+msgstr ""
+
+#: plugin-options/general-options.php:249
+msgid "Separate file extensions using commas. Ex: .gif, .jpg, .png"
+msgstr ""
+
+#: plugin-options/general-options.php:256
+msgid "Uploading file size (MB)"
+msgstr ""
+
+#: plugin-options/general-options.php:258
+msgid "Maximum allowed size for uploaded file"
+msgstr ""
+
+#: plugin-options/general-options.php:271
+msgid "Third-party compatibility"
+msgstr ""
+
+#: plugin-options/general-options.php:278
+msgid "Woo Layout Injector plugin"
+msgstr ""
+
+#: plugin-options/general-options.php:281
+msgid "Select this option if the add-ons don't appear in the cart using a custom layout."
+msgstr ""
+
+#: plugin-options/general-options.php:285
+msgid "7up themes"
+msgstr ""
+
+#: plugin-options/general-options.php:288
+msgid "Select this option if the add-ons don't appear on 7up themes product page"
+msgstr ""
+
+#: plugin-options/help-options.php:17
+msgid "Help"
+msgstr ""
+
+#: plugin-options/settings-options.php:16
+msgid "General options"
+msgstr ""
+
+#: plugin-options/settings-options.php:22
+msgid "Options position in product page"
+msgstr ""
+
+#: plugin-options/settings-options.php:23
+#: plugin-options/settings-options.php:35
+msgid "Choose the position for the options blocks."
+msgstr ""
+
+#: plugin-options/settings-options.php:28
+msgid "Before \"Add to cart\""
+msgstr ""
+
+#: plugin-options/settings-options.php:29
+msgid "After \"Add to cart\""
+msgstr ""
+
+#: plugin-options/settings-options.php:34
+msgid "In WooCommerce pages show"
+msgstr ""
+
+#: plugin-options/settings-options.php:40
+msgid "\"Select options\" button"
+msgstr ""
+
+#: plugin-options/settings-options.php:41
+msgid "\"Add to cart\" button"
+msgstr ""
+
+#: plugin-options/settings-options.php:46
+msgid "Label for \"Select options\" button"
+msgstr ""
+
+#: plugin-options/settings-options.php:47
+msgid "Enter the text for the \"Select options\" button."
+msgstr ""
+
+#: plugin-options/settings-options.php:59
+msgid "Change the product base price with the calculated total"
+msgstr ""
+
+#: plugin-options/settings-options.php:60
+msgid "Enable to replace the product base price (below the title) with the newly calculated total of the selected options."
+msgstr ""
+
+#: plugin-options/settings-options.php:67
+msgid "Hide \"Add to cart\" until the required options are selected"
+msgstr ""
+
+#: plugin-options/settings-options.php:68
+msgid "Enable to hide the \"Add to cart\" button until the user selects the required options."
+msgstr ""
+
+#: plugin-options/settings-options.php:75
+msgid "Total price box"
+msgstr ""
+
+#: plugin-options/settings-options.php:76
+msgid "Choose what information to show in the total price box."
+msgstr ""
+
+#: plugin-options/settings-options.php:81
+msgid "Show product price and total options"
+msgstr ""
+
+#: plugin-options/settings-options.php:82
+msgid "Show the final total but hide options total only if the value is 0"
+msgstr ""
+
+#: plugin-options/settings-options.php:83
+msgid "Show only the final total"
+msgstr ""
+
+#: plugin-options/settings-options.php:84
+msgid "Hide price box on the product page"
+msgstr ""
+
+#: plugin-options/settings-options.php:89
+msgid "Hide titles and images of options groups"
+msgstr ""
+
+#: plugin-options/settings-options.php:90
+msgid "Enable to hide all titles and images set in the \"display\" tab of the options."
+msgstr ""
+
+#: plugin-options/settings-options.php:97
+msgid "Hide images of the single options"
+msgstr ""
+
+#: plugin-options/settings-options.php:98
+msgid "Enable to hide all the images uploaded in the \"populate options\" tab of the options."
+msgstr ""
+
+#: plugin-options/settings-options.php:114
+msgid "Upload options"
+msgstr ""
+
+#: plugin-options/settings-options.php:120
+msgid "Text to show"
+msgstr ""
+
+#: plugin-options/settings-options.php:122
+msgid "Drop files to upload or"
+msgstr ""
+
+#: plugin-options/settings-options.php:126
+msgid "Link to show"
+msgstr ""
+
+#: plugin-options/settings-options.php:130
+msgid "Textual \"browse\""
+msgstr ""
+
+#: plugin-options/settings-options.php:131
+msgid "Button \"upload\""
+msgstr ""
+
+#: plugin-options/settings-options.php:145
+msgid "Allowed file types"
+msgstr ""
+
+#: plugin-options/settings-options.php:146
+msgid "Enter which file types can be uploaded by users."
+msgstr ""
+
+#: plugin-options/settings-options.php:147
+msgid "Separate each file type with a comma. Example: .jpg, .png, .pdf"
+msgstr ""
+
+#: plugin-options/settings-options.php:154
+msgid "Max file size allowed (MB)"
+msgstr ""
+
+#: plugin-options/settings-options.php:155
+msgid "Enter the maximum allowed size for files uploaded by users."
+msgstr ""
+
+#: plugin-options/settings-options.php:187
+msgctxt "Admin title of tab"
+msgid "General options"
+msgstr ""
+
+#: plugin-options/settings-options.php:190
+msgctxt "Admin title of tab"
+msgid "Cart & Order"
+msgstr ""
+
+#: plugin-options/settings-options.php:202
+msgid "Cart & Order options"
+msgstr ""
+
+#: plugin-options/settings-options.php:209
+msgid "Show options in the cart page"
+msgstr ""
+
+#: plugin-options/settings-options.php:210
+msgid "Enable to show the details of the options in the cart page."
+msgstr ""
+
+#: plugin-options/settings-options.php:218
+msgid "Show the replacement image in the cart"
+msgstr ""
+
+#: plugin-options/settings-options.php:219
+msgid "Enable to replace the product image with the option image in the cart."
+msgstr ""
+
+#: plugin-options/settings-options.php:227
+msgid "Hide options in the order email"
+msgstr ""
+
+#: plugin-options/settings-options.php:228
+msgid "Enable to hide the options in the order email."
+msgstr ""
+
+#: plugin-options/style-options.php:16
+msgid "Style Options"
+msgstr ""
+
+#: plugin-options/style-options.php:23
+msgid "Block titles"
+msgstr ""
+
+#: plugin-options/style-options.php:24
+msgid "Choose which heading to use for the titles in the block of options."
+msgstr ""
+
+#: plugin-options/style-options.php:39
+msgid "Block background"
+msgstr ""
+
+#: plugin-options/style-options.php:40
+msgid "Set the background color for all block options."
+msgstr ""
+
+#: plugin-options/style-options.php:55
+msgid "Block padding"
+msgstr ""
+
+#: plugin-options/style-options.php:56
+msgid "Set the padding for the content in all block options."
+msgstr ""
+
+#: plugin-options/style-options.php:74
+msgid "Form style"
+msgstr ""
+
+#: plugin-options/style-options.php:75
+msgid "Choose the general style for form: checkbox, radio, select, input, textarea, etc."
+msgstr ""
+
+#: plugin-options/style-options.php:80
+msgid "Theme style"
+msgstr ""
+
+#: plugin-options/style-options.php:81
+msgid "Custom style"
+msgstr ""
+
+#: plugin-options/style-options.php:87
+msgid "Checkbox style"
+msgstr ""
+
+#: plugin-options/style-options.php:88
+msgid "Choose the style for the checkbox."
+msgstr ""
+
+#: plugin-options/style-options.php:93 plugin-options/style-options.php:198
+msgid "Rounded"
+msgstr ""
+
+#: plugin-options/style-options.php:94 plugin-options/style-options.php:199
+msgid "Square"
+msgstr ""
+
+#: plugin-options/style-options.php:105
+msgid "Accent color"
+msgstr ""
+
+#: plugin-options/style-options.php:106
+msgid "Set the accent color to use for the selected options."
+msgstr ""
+
+#: plugin-options/style-options.php:126
+msgid "Form border-color"
+msgstr ""
+
+#: plugin-options/style-options.php:127
+msgid "Set the color of the form borders."
+msgstr ""
+
+#: plugin-options/style-options.php:147
+msgid "Label font size"
+msgstr ""
+
+#: plugin-options/style-options.php:148
+msgid "Set the label font size in pixel."
+msgstr ""
+
+#: plugin-options/style-options.php:161
+msgid "Description font size"
+msgstr ""
+
+#: plugin-options/style-options.php:162
+msgid "Set the description font size in pixel."
+msgstr ""
+
+#: plugin-options/style-options.php:185
+msgid "Color swatches"
+msgstr ""
+
+#: plugin-options/style-options.php:192
+msgid "Color swatch style"
+msgstr ""
+
+#: plugin-options/style-options.php:193
+msgid "Choose the style for color thumbnails."
+msgstr ""
+
+#: plugin-options/style-options.php:205
+msgid "Color swatch size"
+msgstr ""
+
+#: plugin-options/style-options.php:206
+msgid "Set the size of the color thumbnails."
+msgstr ""
+
+#: plugin-options/style-options.php:221
+msgid "Label / Images"
+msgstr ""
+
+#: plugin-options/style-options.php:228
+msgid "Image position"
+msgstr ""
+
+#: plugin-options/style-options.php:232
+#: templates/admin/addon-display-settings.php:96
+#: templates/admin/addon-style-settings.php:48
+msgid "Above label"
+msgstr ""
+
+#: plugin-options/style-options.php:233
+#: templates/admin/addon-display-settings.php:97
+#: templates/admin/addon-style-settings.php:49
+msgid "Under label"
+msgstr ""
+
+#: plugin-options/style-options.php:234
+#: templates/admin/addon-display-settings.php:98
+#: templates/admin/addon-style-settings.php:50
+msgid "Left side"
+msgstr ""
+
+#: plugin-options/style-options.php:235
+#: templates/admin/addon-display-settings.php:99
+#: templates/admin/addon-style-settings.php:51
+msgid "Right side"
+msgstr ""
+
+#: plugin-options/style-options.php:241
+#: templates/admin/addon-style-settings.php:87
+msgid "Force image equal heights"
+msgstr ""
+
+#: plugin-options/style-options.php:249
+#: templates/admin/addon-style-settings.php:107
+msgid "Image heights"
+msgstr ""
+
+#: plugin-options/style-options.php:262
+#: templates/admin/addon-style-settings.php:127
+msgid "Label position"
+msgstr ""
+
+#: plugin-options/style-options.php:266 plugin-options/style-options.php:277
+#: templates/admin/addon-style-settings.php:137
+#: templates/admin/addon-style-settings.php:160
+msgid "Inside borders"
+msgstr ""
+
+#: plugin-options/style-options.php:267 plugin-options/style-options.php:278
+#: templates/admin/addon-style-settings.php:138
+#: templates/admin/addon-style-settings.php:161
+msgid "Outside borders"
+msgstr ""
+
+#: plugin-options/style-options.php:273
+#: templates/admin/addon-style-settings.php:150
+msgid "Description position"
+msgstr ""
+
+#: plugin-options/style-options.php:284
+#: templates/admin/addon-style-settings.php:173
+msgid "Padding"
+msgstr ""
+
+#: plugin-options/style-options.php:316
+msgid "Show tooltips"
+msgstr ""
+
+#: plugin-options/style-options.php:317
+msgid "Enable to show the tooltips in product options."
+msgstr ""
+
+#: plugin-options/style-options.php:325
+msgid "Tooltip color"
+msgstr ""
+
+#: plugin-options/style-options.php:326
+msgid "Set the color for this heading."
+msgstr ""
+
+#: plugin-options/style-options.php:331
+msgid "BACKGROUND"
+msgstr ""
+
+#: plugin-options/style-options.php:337
+msgid "TEXT"
+msgstr ""
+
+#: plugin-options/style-options.php:353
+msgid "Choose the default position for tooltips."
+msgstr ""
+
+#: plugin-options/style-options.php:377
+msgid "Toggle"
+msgstr ""
+
+#: plugin-options/style-options.php:384
+msgid "Show options in toggle"
+msgstr ""
+
+#: plugin-options/style-options.php:385
+msgid "Enable to show the options blocks in toggle sections."
+msgstr ""
+
+#: plugin-options/style-options.php:393
+msgid "Show toggle opened by default"
+msgstr ""
+
+#: plugin-options/style-options.php:394
+msgid "Enable to show the toggle opened by default."
+msgstr ""
+
+#: plugin-options/variations-options.php:14
+msgid "Manage variations"
+msgstr ""
+
+#: plugin-options/variations-options.php:21
+msgid "Attribute behavior"
+msgstr ""
+
+#: plugin-options/variations-options.php:22
+msgid "Choose attribute style after selection."
+msgstr ""
+
+#: plugin-options/variations-options.php:27
+msgid "Hide attributes"
+msgstr ""
+
+#: plugin-options/variations-options.php:28
+msgid "Blur attributes"
+msgstr ""
+
+#: plugin-options/variations-options.php:35
+msgid "Enable tooltip"
+msgstr ""
+
+#: plugin-options/variations-options.php:37
+msgid "Enable tooltip on attributes"
+msgstr ""
+
+#: plugin-options/variations-options.php:83
+msgid "Show attribute description"
+msgstr ""
+
+#: plugin-options/variations-options.php:85
+msgid "Show description below attributes in the single product page"
+msgstr ""
+
+#: plugin-options/variations-options.php:91
+msgid "Enable plugin on archive pages"
+msgstr ""
+
+#: plugin-options/variations-options.php:93
+msgid "Allow attribute selection on archive shop pages"
+msgstr ""
+
+#: plugin-options/variations-options.php:100
+msgid "Show add-ons on archive shop pages"
+msgstr ""
+
+#: plugin-options/variations-options.php:113
+msgid "\"Add to cart\" button label on archive pages (for variable products only)"
+msgstr ""
+
+#: plugin-options/variations-options.php:114
+#: templates/front/addons/product.php:127
+msgid "Add to cart"
+msgstr ""
+
+#: plugin-options/variations-options.php:119
+msgid "Change product-image on hover"
+msgstr ""
+
+#: plugin-options/variations-options.php:121
+msgid "Change the product image when the mouse hovers the concerned attribute. PLEASE, NOTE: It works only for products that have only one attribute per variation."
+msgstr ""
+
+#: plugin-options/variations-options.php:127
+msgid "Show custom attributes on \"Additional Information\" Tab"
+msgstr ""
+
+#: plugin-options/variations-options.php:129
+msgid "Show custom attributes style on \"Additional Information\" Tab instead of simple text."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:20
+msgid "Set the first selected options as free"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:35
+msgid "Enable to set a specific number of options as free."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:36
+msgid "For example, the first three \"pizza toppings\" are free and included in the product price."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:37
+msgid "The user will pay for the fourth topping."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:45
+msgid "How many options the user can select for free"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:59
+msgid "Set how many options the user can select for free."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:69
+msgid "Selection type"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:79
+msgid "Single - User can select only ONE of the options available"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:80
+msgid "Multiple - User can select MULTIPLE options"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:87
+#: templates/admin/block-rules.php:44
+msgid "Choose to show these options in all products or only specific products or categories."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:97
+msgid "Enable min/max selection rules"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:112
+msgid "Enable if the user has to select a minimum, maximum, or the exact number of options to proceed with the purchase."
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:120
+msgid "To proceed to buy, the user has to select:"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:136
+msgid "A minimum of"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:137
+msgid "A maximum of"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:138
+msgid "Exactly"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:155
+#: templates/admin/block-editor.php:91
+#: templates/admin/yith-wapo-group-addons.php:80 templates/front/block.php:161
+msgid "options"
+msgstr ""
+
+#: templates/admin/addon-advanced-settings.php:160
+#: templates/admin/addon-conditional-logic.php:178
+#: templates/admin/addons/date.php:421
+msgid "Add rule"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:54
+msgid "Variation"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:73
+msgid "Set conditions to show or hide this set of options"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:88
+msgid "Enable to set rules to hide or show the options."
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:96
+msgid "Display rules"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:108
+msgid "Show"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:109
+msgid "Hide"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:115
+msgid "this set of options if"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:124
+msgid "All of these rules"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:125
+msgid "Any of these rules"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:131
+msgid "match"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:156
+msgid "is"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:166
+msgid "Selected"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:167
+msgid "Not selected"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:168
+msgid "Empty"
+msgstr ""
+
+#: templates/admin/addon-conditional-logic.php:169
+msgid "Not empty"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:18
+msgid "Show an image for this add-on"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:32
+msgid "Enable to show an additional image or icon near the title."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:39
+msgid "Add-on image"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:60
+msgid "Product image replacing options"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:70
+msgid "Don't replace the image"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:71
+msgid "Replace with add-on image"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:72
+msgid "Replace with options images"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:78
+msgid "Choose to replace the default product image when an option is selected and which image to use to replace it."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:86
+#: templates/admin/addon-style-settings.php:38
+msgid "Options images position"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:105
+msgid "Choose the position of the options images."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:115
+msgid "Show as toggle"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:125
+msgid "No"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:126
+msgid "Yes, with toggle opened by default"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:127
+msgid "Yes, with toggle closed by default"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:133
+msgid "Choose whether to show options in a toggle section."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:142
+msgid "Hide product prices"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:155
+msgid "Enable if you want to hide the product prices."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:161
+msgid "Show SKU label"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:174
+msgid "Enable if you want to show the sku label."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:180
+msgid "Show stock label"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:193
+msgid "Enable if you want to show the stock label."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:199
+msgid "Show \"Add to cart\" button"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:213
+msgid "Enable if you want to show the \"Add to cart\" button."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:219
+#: templates/admin/addon-display-settings.php:377
+msgid "Show quantity selector"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:232
+msgid "Enable if you want to show the quantity selector."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:241
+msgid "Hide options images"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:254
+msgid "Enable if you want to hide the options images."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:261
+msgid "Hide options labels"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:274
+msgid "Enable if you want to hide the options labels."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:281
+msgid "Hide options prices"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:294
+msgid "Enable if you want to hide the options prices."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:301
+msgid "Options layout"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:305
+msgid "Options per row"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:322
+msgid "Enter how many options to display for each row."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:330
+msgid "Use a grid layout"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:344
+msgid "Enable to adjust the options in a grid based on the page width."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:351
+msgid "Options width"
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:368
+msgid "Select the options field size."
+msgstr ""
+
+#: templates/admin/addon-display-settings.php:390
+msgid "Enable if you want to show a quantity selector for this option"
+msgstr ""
+
+#: templates/admin/addon-editor.php:35
+msgid "back to the type choice"
+msgstr ""
+
+#: templates/admin/addon-editor.php:45
+msgid "Populate options"
+msgstr ""
+
+#: templates/admin/addon-editor.php:47
+msgid "Display settings"
+msgstr ""
+
+#: templates/admin/addon-editor.php:52
+msgid "Conditional logic"
+msgstr ""
+
+#: templates/admin/addon-editor.php:53
+msgid "Advanced settings"
+msgstr ""
+
+#: templates/admin/addon-editor.php:79
+#: templates/admin/yith-wapo-form-option-type.php:116
+msgid "Title"
+msgstr ""
+
+#: templates/admin/addon-editor.php:82
+msgid "Enter a title to show before the options."
+msgstr ""
+
+#: templates/admin/addon-editor.php:93 templates/admin/addon-editor.php:121
+#: templates/admin/blocks-table.php:143
+#: templates/admin/yith-wapo-form-option-type.php:392
+#: templates/admin/yith-wapo-group-addons.php:111
+#: templates/admin/yith-wapo-groups.php:179
+#: templates/admin/yith-wapo-new-option.php:59
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/addon-editor.php:98 templates/admin/addon-editor.php:125
+#: templates/admin/blocks-table.php:155
+msgid "Confirm delete"
+msgstr ""
+
+#: templates/admin/addon-editor.php:99 templates/admin/addon-editor.php:126
+msgid "Are you sure to delete this option?"
+msgstr ""
+
+#: templates/admin/addon-editor.php:100 templates/admin/addon-editor.php:127
+#: templates/admin/blocks-table.php:157
+msgctxt "Delete confirmation action"
+msgid "Yes, delete"
+msgstr ""
+
+#: templates/admin/addon-editor.php:111
+msgid "Add a new option"
+msgstr ""
+
+#: templates/admin/addon-editor.php:164 templates/admin/block-editor.php:147
+#: templates/front/addons/date.php:444
+msgid "Save"
+msgstr ""
+
+#: templates/admin/addon-editor.php:173
+msgid "Add HTML element"
+msgstr ""
+
+#: templates/admin/addon-editor.php:183
+msgid "Add option for the user"
+msgstr ""
+
+#: templates/admin/addon-style-settings.php:18
+msgid "Override default style for this set of labels"
+msgstr ""
+
+#: templates/admin/addon-style-settings.php:63
+msgid "Content alignment"
+msgstr ""
+
+#: templates/admin/addon-style-settings.php:73
+msgid "Left"
+msgstr ""
+
+#: templates/admin/addon-style-settings.php:74
+msgid "Center"
+msgstr ""
+
+#: templates/admin/addon-style-settings.php:75
+msgid "Right"
+msgstr ""
+
+#: templates/admin/addons/checkbox.php:16
+msgid "CHECKBOX"
+msgstr ""
+
+#: templates/admin/addons/color.php:16
+msgid "COLOR SWATCH"
+msgstr ""
+
+#: templates/admin/addons/date.php:14
+msgid "DATE FIELD"
+msgstr ""
+
+#: templates/admin/addons/date.php:22
+msgid "Date format"
+msgstr ""
+
+#: templates/admin/addons/date.php:32
+msgid "Day / Month / Year"
+msgstr ""
+
+#: templates/admin/addons/date.php:33
+msgid "Month / Day / Year"
+msgstr ""
+
+#: templates/admin/addons/date.php:34
+msgid "Day . Month . Year"
+msgstr ""
+
+#: templates/admin/addons/date.php:46
+msgid "Year"
+msgstr ""
+
+#: templates/admin/addons/date.php:48
+msgid "START YEAR"
+msgstr ""
+
+#: templates/admin/addons/date.php:52
+msgid "END YEAR"
+msgstr ""
+
+#: templates/admin/addons/date.php:60
+msgid "Default date"
+msgstr ""
+
+#: templates/admin/addons/date.php:71 templates/admin/yith-wapo-group.php:114
+msgid "None"
+msgstr ""
+
+#: templates/admin/addons/date.php:72 templates/admin/addons/date.php:73
+msgid "Current day"
+msgstr ""
+
+#: templates/admin/addons/date.php:74
+msgid "Set a specific day"
+msgstr ""
+
+#: templates/admin/addons/date.php:75
+msgid "Set a time interval from current day"
+msgstr ""
+
+#: templates/admin/addons/date.php:76
+msgid "First available day"
+msgstr ""
+
+#: templates/admin/addons/date.php:88
+msgid "Specific day"
+msgstr ""
+
+#: templates/admin/addons/date.php:107
+msgid "For default date, calculate"
+msgstr ""
+
+#: templates/admin/addons/date.php:134 templates/admin/addons/date.php:305
+msgid "Days"
+msgstr ""
+
+#: templates/admin/addons/date.php:135 templates/admin/addons/date.php:307
+msgid "Months"
+msgstr ""
+
+#: templates/admin/addons/date.php:136 templates/admin/addons/date.php:308
+msgid "Years"
+msgstr ""
+
+#: templates/admin/addons/date.php:143
+msgid "from current day"
+msgstr ""
+
+#: templates/admin/addons/date.php:148
+msgid "Selectable dates"
+msgstr ""
+
+#: templates/admin/addons/date.php:160
+msgid "Set no limits"
+msgstr ""
+
+#: templates/admin/addons/date.php:161
+msgid "Set a range of days"
+msgstr ""
+
+#: templates/admin/addons/date.php:162
+msgid "Set a specific date range"
+msgstr ""
+
+#: templates/admin/addons/date.php:174
+msgid "Selectable days ranges"
+msgstr ""
+
+#: templates/admin/addons/date.php:176 templates/admin/addons/date.php:212
+#: templates/admin/addons/number.php:46 templates/admin/addons/text.php:46
+#: templates/admin/addons/textarea.php:44
+msgid "MIN"
+msgstr ""
+
+#: templates/admin/addons/date.php:191 templates/admin/addons/date.php:227
+#: templates/admin/addons/number.php:50 templates/admin/addons/text.php:50
+#: templates/admin/addons/textarea.php:48
+msgid "MAX"
+msgstr ""
+
+#: templates/admin/addons/date.php:210
+msgid "Selectable date ranges"
+msgstr ""
+
+#: templates/admin/addons/date.php:246
+msgid "Enable / disable specific days"
+msgstr ""
+
+#: templates/admin/addons/date.php:266 templates/admin/addons/date.php:470
+msgid "Rule type"
+msgstr ""
+
+#: templates/admin/addons/date.php:278 templates/admin/addons/date.php:482
+msgid "Enable"
+msgstr ""
+
+#: templates/admin/addons/date.php:279 templates/admin/addons/date.php:483
+msgid "Disable"
+msgstr ""
+
+#: templates/admin/addons/date.php:286
+msgid "these dates in calendar"
+msgstr ""
+
+#: templates/admin/addons/date.php:306
+msgid "Days of the week"
+msgstr ""
+
+#: templates/admin/addons/date.php:340
+msgid "Monday"
+msgstr ""
+
+#: templates/admin/addons/date.php:341
+msgid "Tuesday"
+msgstr ""
+
+#: templates/admin/addons/date.php:342
+msgid "Wednesday"
+msgstr ""
+
+#: templates/admin/addons/date.php:343
+msgid "Thursday"
+msgstr ""
+
+#: templates/admin/addons/date.php:344
+msgid "Friday"
+msgstr ""
+
+#: templates/admin/addons/date.php:345
+msgid "Saturday"
+msgstr ""
+
+#: templates/admin/addons/date.php:346
+msgid "Sunday"
+msgstr ""
+
+#: templates/admin/addons/date.php:365
+msgid "January"
+msgstr ""
+
+#: templates/admin/addons/date.php:366
+msgid "February"
+msgstr ""
+
+#: templates/admin/addons/date.php:367
+msgid "March"
+msgstr ""
+
+#: templates/admin/addons/date.php:368
+msgid "April"
+msgstr ""
+
+#: templates/admin/addons/date.php:369
+msgid "May"
+msgstr ""
+
+#: templates/admin/addons/date.php:370
+msgid "June"
+msgstr ""
+
+#: templates/admin/addons/date.php:371
+msgid "July"
+msgstr ""
+
+#: templates/admin/addons/date.php:372
+msgid "August"
+msgstr ""
+
+#: templates/admin/addons/date.php:373
+msgid "September"
+msgstr ""
+
+#: templates/admin/addons/date.php:374
+msgid "October"
+msgstr ""
+
+#: templates/admin/addons/date.php:375
+msgid "November"
+msgstr ""
+
+#: templates/admin/addons/date.php:376
+msgid "December"
+msgstr ""
+
+#: templates/admin/addons/date.php:430
+msgid "Show time selector"
+msgstr ""
+
+#: templates/admin/addons/date.php:450
+msgid "Enable / disable time slots"
+msgstr ""
+
+#: templates/admin/addons/date.php:490
+msgid "these time slots:"
+msgstr ""
+
+#: templates/admin/addons/date.php:499
+msgid "from"
+msgstr ""
+
+#: templates/admin/addons/date.php:571
+msgid "to"
+msgstr ""
+
+#: templates/admin/addons/date.php:658
+msgid "Add time slot"
+msgstr ""
+
+#: templates/admin/addons/date.php:667
+msgid "Time interval"
+msgstr ""
+
+#: templates/admin/addons/date.php:727
+msgid "Seconds"
+msgstr ""
+
+#: templates/admin/addons/date.php:728
+msgid "Minutes"
+msgstr ""
+
+#: templates/admin/addons/date.php:729
+msgid "Hours"
+msgstr ""
+
+#: templates/admin/addons/file.php:16
+msgid "UPLOAD FILE"
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:20
+msgid "Heading text"
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:23
+msgid "Enter a text for this heading."
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:30
+msgid "Heading type"
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:51
+msgid "Choose the heading type."
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:58
+msgid "Heading color"
+msgstr ""
+
+#: templates/admin/addons/html_heading.php:74
+msgid "Choose the color of this heading."
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:20
+msgid "Separator style"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:30
+msgid "Simple Border"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:31
+msgid "Double Border"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:32
+msgid "Dotted Border"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:33
+msgid "Dashed Border"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:34
+msgid "Empty Space"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:40
+msgid "Choose the separator style."
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:47
+msgid "Width"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:64
+msgid "Set the width value of the separator."
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:72
+msgid "Height"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:87
+msgid "Set the height value of the separator."
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:95
+msgid "Border color"
+msgstr ""
+
+#: templates/admin/addons/html_separator.php:111
+msgid "Set the color for the separator border."
+msgstr ""
+
+#: templates/admin/addons/html_text.php:20
+msgid "Enter your text content"
+msgstr ""
+
+#: templates/admin/addons/label.php:14
+msgid "LABEL OR IMAGE"
+msgstr ""
+
+#: templates/admin/addons/number.php:14
+msgid "NUMBER FIELD"
+msgstr ""
+
+#: templates/admin/addons/number.php:24
+msgid "Limit the input number"
+msgstr ""
+
+#: templates/admin/addons/number.php:44
+msgid "Number limits"
+msgstr ""
+
+#: templates/admin/addons/product.php:14
+msgid "PRODUCT"
+msgstr ""
+
+#: templates/admin/addons/radio.php:14
+msgid "RADIO BUTTON"
+msgstr ""
+
+#: templates/admin/addons/select.php:14
+msgid "SELECT FIELD"
+msgstr ""
+
+#: templates/admin/addons/text.php:14
+msgid "INPUT FIELD"
+msgstr ""
+
+#: templates/admin/addons/text.php:24 templates/admin/addons/textarea.php:22
+msgid "Limit input characters"
+msgstr ""
+
+#: templates/admin/addons/text.php:44 templates/admin/addons/textarea.php:42
+msgid "Number of characters"
+msgstr ""
+
+#: templates/admin/addons/textarea.php:14
+msgid "TEXTAREA"
+msgstr ""
+
+#: templates/admin/addons/textarea.php:57
+msgid "Advanced editor"
+msgstr ""
+
+#: templates/admin/block-editor.php:20
+msgid "Back to blocks list"
+msgstr ""
+
+#: templates/admin/block-editor.php:22
+msgid "Edit block"
+msgstr ""
+
+#: templates/admin/block-editor.php:22
+msgid "Add new block"
+msgstr ""
+
+#: templates/admin/block-editor.php:29
+msgid "Block name"
+msgstr ""
+
+#: templates/admin/block-editor.php:32
+msgid "Enter a name to identify this block of options."
+msgstr ""
+
+#: templates/admin/block-editor.php:39
+msgid "Block priority level"
+msgstr ""
+
+#: templates/admin/block-editor.php:43
+msgid "Set the priority level assigned to this rule. The priority level is important to arrange the different rules that apply to the same products. 1 has the highest priority level."
+msgstr ""
+
+#: templates/admin/block-editor.php:50
+msgid "OPTIONS"
+msgstr ""
+
+#: templates/admin/block-editor.php:51
+msgid "RULES"
+msgstr ""
+
+#: templates/admin/block-editor.php:91 templates/front/block.php:160
+msgid "option"
+msgstr ""
+
+#: templates/admin/block-editor.php:122
+msgid "Start to add your options to this block!"
+msgstr ""
+
+#: templates/admin/block-editor.php:124
+msgid "Add options"
+msgstr ""
+
+#: templates/admin/block-rules.php:26
+msgid "Show this block of options in"
+msgstr ""
+
+#: templates/admin/block-rules.php:36
+msgid "All products"
+msgstr ""
+
+#: templates/admin/block-rules.php:37
+msgid "Specific products and categories"
+msgstr ""
+
+#: templates/admin/block-rules.php:51
+msgid "Products to include"
+msgstr ""
+
+#: templates/admin/block-rules.php:69
+msgid "Choose in which products to show this block."
+msgstr ""
+
+#: templates/admin/block-rules.php:76
+msgid "Categories to include"
+msgstr ""
+
+#: templates/admin/block-rules.php:87 templates/admin/block-rules.php:159
+msgid "Search for categories"
+msgstr ""
+
+#: templates/admin/block-rules.php:94
+msgid "Choose in which product categories to show this block."
+msgstr ""
+
+#: templates/admin/block-rules.php:103
+msgid "Exclude products"
+msgstr ""
+
+#: templates/admin/block-rules.php:116
+msgid "Enable if you want to hide these options in some products."
+msgstr ""
+
+#: templates/admin/block-rules.php:123
+msgid "Products to exclude"
+msgstr ""
+
+#: templates/admin/block-rules.php:141
+msgid "Choose the products to exclude."
+msgstr ""
+
+#: templates/admin/block-rules.php:148
+msgid "Categories to exclude"
+msgstr ""
+
+#: templates/admin/block-rules.php:166
+msgid "Choose the categories to exclude."
+msgstr ""
+
+#: templates/admin/block-rules.php:173
+msgid "Show options to"
+msgstr ""
+
+#: templates/admin/block-rules.php:183
+msgid "All users"
+msgstr ""
+
+#: templates/admin/block-rules.php:184
+msgid "Only to guest users"
+msgstr ""
+
+#: templates/admin/block-rules.php:185
+msgid "Only to logged-in users"
+msgstr ""
+
+#: templates/admin/block-rules.php:186
+msgid "Only to specified user roles"
+msgstr ""
+
+#: templates/admin/block-rules.php:190
+msgid "Only to users with a membership plan"
+msgstr ""
+
+#: templates/admin/block-rules.php:206
+msgid "Choose to show these options to all users, or only to specific user roles or members of a membership plan."
+msgstr ""
+
+#: templates/admin/block-rules.php:213
+msgid "User roles"
+msgstr ""
+
+#: templates/admin/block-rules.php:234
+msgid "Membership plan"
+msgstr ""
+
+#: templates/admin/blocks-table.php:25
+msgid "Blocks list"
+msgstr ""
+
+#: templates/admin/blocks-table.php:26 templates/admin/blocks-table.php:197
+msgid "Add block"
+msgstr ""
+
+#: templates/admin/blocks-table.php:33 templates/admin/yith-wapo-groups.php:74
+msgid "Priority"
+msgstr ""
+
+#: templates/admin/blocks-table.php:34
+msgid "Show on products:"
+msgstr ""
+
+#: templates/admin/blocks-table.php:35
+msgid "Show on categories:"
+msgstr ""
+
+#: templates/admin/blocks-table.php:37
+msgid "Exclude products:"
+msgstr ""
+
+#: templates/admin/blocks-table.php:38
+msgid "Exclude categories:"
+msgstr ""
+
+#: templates/admin/blocks-table.php:40
+msgid "Active"
+msgstr ""
+
+#: templates/admin/blocks-table.php:118
+#: templates/admin/yith-wapo-groups.php:170
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/blocks-table.php:130
+#: templates/admin/yith-wapo-form-option-type.php:387
+#: templates/admin/yith-wapo-group-addons.php:110
+#: templates/admin/yith-wapo-groups.php:176
+msgid "Duplicate"
+msgstr ""
+
+#: templates/admin/blocks-table.php:156
+msgid "Are you sure to delete this block?"
+msgstr ""
+
+#: templates/admin/blocks-table.php:162
+msgid "Move"
+msgstr ""
+
+#: templates/admin/blocks-table.php:194
+msgid "You have no options blocks created yet."
+msgstr ""
+
+#: templates/admin/blocks-table.php:195
+msgid "Now build your first block!"
+msgstr ""
+
+#: templates/admin/blocks-table.php:204
+msgid "Switch to the 1.x version"
+msgstr ""
+
+#: templates/admin/description-field.php:19
+#: templates/admin/description-field.php:35
+#: templates/admin/option-common-fields.php:57
+#: templates/admin/yith-wapo-form-option-type.php:157
+#: templates/admin/yith-wapo-form-option-type.php:253
+#: templates/admin/yith-wapo-form-option-type.php:288
+#: templates/admin/yith-wapo-new-option.php:15
+#: templates/admin/yith-wccl-description-field.php:19
+#: templates/admin/yith-wccl-description-field.php:35
+msgid "Description"
+msgstr ""
+
+#: templates/admin/description-field.php:28
+#: templates/admin/description-field.php:42
+msgid "Description for product attributes."
+msgstr ""
+
+#: templates/admin/impexp.php:21
+msgid "Import / Export"
+msgstr ""
+
+#: templates/admin/impexp.php:32
+msgid "Import old add-ons"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:21
+msgid "Show as"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:33
+msgid "Single color swatch"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:34
+msgid "Double color swatch"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:35
+msgid "Image swatch"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:144
+msgid "Add image"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:159
+msgid "Enable to upload an image for this option."
+msgstr ""
+
+#: templates/admin/option-common-fields.php:162
+msgid "You can use this image to <b>replace the default product image</b> (enabling the option in Display Settings tab)."
+msgstr ""
+
+#: templates/admin/option-common-fields.php:199
+#: templates/admin/yith-wapo-form-option-type.php:313
+#: templates/admin/yith-wapo-new-option.php:27
+msgid "Price"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:204
+#: templates/admin/option-common-fields.php:211
+msgid "Product price doesn't change - set option as free"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:205
+#: templates/admin/option-common-fields.php:212
+msgid "Increase the main product price"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:206
+#: templates/admin/option-common-fields.php:213
+msgid "Discount the main product price"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:214
+msgid "Use price of linked product"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:215
+msgid "Discount price of linked product"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:236
+msgid "Option cost"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:238
+msgid "REGULAR"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:239
+msgid "DISCOUNT"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:243
+msgid "SALE"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:249
+#: templates/admin/yith-wapo-new-option.php:33
+msgid "Fixed amount"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:250
+msgid "Percentage"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:253
+#: templates/admin/yith-wapo-new-option.php:35
+msgid "Price multiplied by value"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:256
+#: templates/admin/yith-wapo-new-option.php:36
+msgid "Price multiplied by string length"
+msgstr ""
+
+#: templates/admin/option-common-fields.php:277
+msgid "Selected by default"
+msgstr ""
+
+#: templates/admin/premium.php:169 templates/admin/premium.php:599
+msgid "Upgrade to the %1$spremium version%2$s%3$sof %1$sYITH WooCommerce Product Add-ons & Extra Options%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:171 templates/admin/premium.php:601
+msgid "Upgrade"
+msgstr ""
+
+#: templates/admin/premium.php:185
+msgid "The ultimate tool to add options and extra services (free or paid) to your products and offer them to your users"
+msgstr ""
+
+#: templates/admin/premium.php:189
+msgid ""
+"WooCommerce allows selling any type of product and lets users choose simple variations, like size and color.\n"
+"                    Yet, this is not enough. If you sell your products online, you most likely need more advanced\n"
+"                    options. For example, if you sell rings or jewelry, you might need to let your customers add a\n"
+"                    custom text to be engraved in a piece of jewelry or choose carats for a gemstone, the size, the\n"
+"                    color for gold.\n"
+"                    If you sell T-shirts, cups, and other custom items, you certainly need a field to let your customers\n"
+"                    upload files, like their photos, during the checkout process. Or if you run an e-commerce site for\n"
+"                    tech products, you might want to offer warranty and assistance services for an extra cost or\n"
+"                    allow users to select a large number of options like RAM, processor, screen size, weight, etc.\n"
+"                    Some options might have a cost higher than others or require a dependency and show only\n"
+"                    after a specific selection has been made by the user. All these scenarios need a versatile and\n"
+"                    powerful tool to help you add an unlimited number of options, of any kind, to a product page.\n"
+"                    With <b>YITH WooCommerce Product Add-ons</b>, you can create several blocks of options to\n"
+"                    insert in your products: after creating the block, you can add the options you need by choosing\n"
+"                    elements through an amazing library (input fields, text areas, select dropdowns, checkboxes,\n"
+"                    images, labels, radio buttons, upload fields, date pickers, etc.). For each option, you can set an\n"
+"                    additional cost, which will be added to the standard product price, and, <b>in a few minutes, you'll\n"
+"                    be ready to sell complex or customizable products and offer any kind of optional service</b>\n"
+"                    to your customers."
+msgstr ""
+
+#: templates/admin/premium.php:221
+msgid "Create unlimited blocks of options to show on specific products or product categories"
+msgstr ""
+
+#: templates/admin/premium.php:225
+msgid ""
+"Create a block of options for all products in a certain category, another block for a specific\n"
+"                    product, the third block for another different product, and so on. The plugin allows creating and\n"
+"                    configuring an unlimited number of blocks, each of them with an unlimited number of options.\n"
+"                    The key idea behind it is, as usual, flexibility."
+msgstr ""
+
+#: templates/admin/premium.php:248
+msgid "Populate every block by choosing one or more options among the ones available in the library"
+msgstr ""
+
+#: templates/admin/premium.php:252
+msgid ""
+"Pick the options you want to add to the block from the options library provided. To present your\n"
+"                    product options, you can use checkboxes, select dropdowns, file upload fields, input fields, color\n"
+"                    swatches, textual labels or labels with images, date pickers, and much more."
+msgstr ""
+
+#: templates/admin/premium.php:268
+msgid "Promote products as additional options"
+msgstr ""
+
+#: templates/admin/premium.php:272
+msgid ""
+"Since version 2.0, you can select a product as an option: this way, on the product detail page,\n"
+"                    you can suggest one or more products or related services, side options, and push the user to\n"
+"                    add them all in bulk to the cart in just one click."
+msgstr ""
+
+#: templates/admin/premium.php:294
+msgid "Customize every option to show it the way you like it"
+msgstr ""
+
+#: templates/admin/premium.php:298
+msgid ""
+"Once the option has been added to the block, you can customize the way it appears on the\n"
+"                    product page: set which title and/or a description to show; add a tooltip and image to easily\n"
+"                    identify the option (you can also choose to whether this image will replace the default product\n"
+"                    image when it is selected by the user); you can also set the option as “required” and decide\n"
+"                    whether to show it as selected by default on the page."
+msgstr ""
+
+#: templates/admin/premium.php:316
+msgid "Set the price (regular and on-sale one) for every option or set a percentage value that will add or detract from the final product price"
+msgstr ""
+
+#: templates/admin/premium.php:320
+msgid ""
+"For every single option you can choose whether it can be selected by the user for free, if it will\n"
+"                    add an extra cost to the base price (a fixed or percentage surcharge on the product price) or if,\n"
+"                    on the other hand, selecting it will apply a discount on the product price. Additionally, in the\n"
+"                    block options, you can choose whether to offer the first options chosen by the user for free (e.g.\n"
+"                    you sell a pizza and the first three ingredients selected by the user are included in the pizza\n"
+"                    price, but from the forth one on, every additional topping will come at an extra cost)."
+msgstr ""
+
+#: templates/admin/premium.php:345
+msgid "Choose whether to show the options in a vertical line or in a grid"
+msgstr ""
+
+#: templates/admin/premium.php:349
+msgid ""
+"Choose whether to show the options in a vertical layout, so one below the other, or show them\n"
+"                    in a horizontal grid. In the latter case, you can set the number of columns into which the options\n"
+"                    will be divided."
+msgstr ""
+
+#: templates/admin/premium.php:365
+msgid "Create dependencies rules (conditional logic) to show or hide the options based on the user’s selection"
+msgstr ""
+
+#: templates/admin/premium.php:369
+msgid ""
+"The dependency rules make the plugin even more powerful and show or hide specific options\n"
+"                    based on what the user selects. For example, you can show the express shipping option only to\n"
+"                    users who select the region where this delivery option is available; or show the file upload field\n"
+"                    only to users who have checked the option to customize the product."
+msgstr ""
+
+#: templates/admin/premium.php:392
+msgid "Choose whether the user can only pick one of the options available or select multiple ones"
+msgstr ""
+
+#: templates/admin/premium.php:396
+msgid ""
+"For every block of options, you can choose whether the user can make multiple selections (e.g.,\n"
+"                    select more colors from the color swatches) or if only one of the available options can be\n"
+"                    chosen."
+msgstr ""
+
+#: templates/admin/premium.php:412
+msgid "Set the options as mandatory and define the minimum and maximum number of options that the user can select and add to the cart"
+msgstr ""
+
+#: templates/admin/premium.php:416
+msgid ""
+"You can set specific quantity rules for the number of options the user has to choose. This is both\n"
+"                    possible for a minimum number of selected options and the maximum number of options. For\n"
+"                    example, customizing a garden shed requires at least two options but no more than six before\n"
+"                    the product is added to the cart."
+msgstr ""
+
+#: templates/admin/premium.php:439
+msgid "Choose whether the options will be visible to all users, only to registered ones, or to specific user roles only"
+msgstr ""
+
+#: templates/admin/premium.php:443
+msgid ""
+"For every block of options, you can set some visibility rules and decide whether the options will\n"
+"                    be visible to all users (also guests) or if they will be available only for registered users or specific\n"
+"                    user roles only."
+msgstr ""
+
+#: templates/admin/premium.php:459
+msgid "Choose where on the product page the options will be displayed"
+msgstr ""
+
+#: templates/admin/premium.php:463
+msgid ""
+"Choose where on the page the block with options will show up (before or after the “Add to cart”\n"
+"                    button), and customize the “Select options” button in WooCommerce loops (i.e., the product\n"
+"                    shortcodes, the Shop page, the category pages, and so on.)"
+msgstr ""
+
+#: templates/admin/premium.php:485
+msgid "Hide the “Add to cart” button until the user selects all options"
+msgstr ""
+
+#: templates/admin/premium.php:489
+msgid ""
+"Enhance the options by hiding the “Add to cart” button until the user has selected every required\n"
+"                    option. Only after the user has made a selection for all the available options, the button will\n"
+"                    show up, and the user is able to add the product to the cart."
+msgstr ""
+
+#: templates/admin/premium.php:505
+msgid "Choose whether to show the total price, including options on the product page"
+msgstr ""
+
+#: templates/admin/premium.php:509
+msgid ""
+"Do you want to offer transparency about product prices and prevent unwanted higher prices in\n"
+"                    the cart for your users? You can, by simply enabling the option that allows showing the total\n"
+"                    product price inclusive of all the options selected by the user on the product page."
+msgstr ""
+
+#: templates/admin/premium.php:531
+msgid "Configure the permissions for file upload fields (accepted file formats, maximum file size, etc.) and enable the option to get the uploaded files as order attachments"
+msgstr ""
+
+#: templates/admin/premium.php:535
+msgid ""
+"If you choose the Upload fields to let your user upload files to the product (like documents,\n"
+"                    images, graphics, etc.), you can take advantage of the built-in options to set permissions about\n"
+"                    which file formats are allowed and the maximum size. Also, for better and flawless\n"
+"                    management, enable the option to send the uploaded files as attachments of the Order\n"
+"                    confirmation emails and choose the folder where all the files will be automatically stored."
+msgstr ""
+
+#: templates/admin/premium.php:553
+msgid "Choose whether to show the selected option in the Cart and in the order-related emails"
+msgstr ""
+
+#: templates/admin/premium.php:557
+msgid ""
+"Choose whether to show only the basic product information or also all the options selected by\n"
+"                    the user. Similarly, you can show or hide the selected options on all the order-related emails."
+msgstr ""
+
+#: templates/admin/premium.php:578
+msgid "Customize the style and colors of the options block"
+msgstr ""
+
+#: templates/admin/premium.php:582
+msgid ""
+"In the plugin you will find many options to customize the option blocks. You can use either the\n"
+"                    theme style (for checkboxes, radio buttons, select dropdowns etc) or the plugin style; you can\n"
+"                    edit colors (block background color, highlight color for the selected option etc), show tooltips and\n"
+"                    set their color and position, set whether to show the options in a toggle button (open or closed\n"
+"                    by default), and many more styling options."
+msgstr ""
+
+#: templates/admin/variation-gallery.php:16
+msgid "Variation Image Gallery"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:88
+#: templates/admin/yith-wapo-group-addons.php:76
+msgid "Type"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:130
+msgid "Options Requirements"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:132
+msgid "Show this add-on only after selecting the following options."
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:134
+msgid "Choose required add-ons"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:197
+msgid "Sort"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:200
+#: templates/admin/yith-wapo-groups.php:75
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:246
+#: templates/admin/yith-wapo-form-option-type.php:283
+#: templates/admin/yith-wapo-new-option.php:11
+msgid "Option Label"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:258
+#: templates/admin/yith-wapo-form-option-type.php:294
+#: templates/admin/yith-wapo-new-option.php:19
+msgid "Placeholder"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:318
+#: templates/admin/yith-wapo-new-option.php:31
+msgid "Amount"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:320
+msgid "Fixed"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:321
+#: templates/admin/yith-wapo-new-option.php:34
+msgid "% markup"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:322
+msgid "Multiplied by option numeric value"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:323
+msgid "Multiplied by option string length"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:327
+#: templates/admin/yith-wapo-new-option.php:40
+msgid "Min"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:333
+#: templates/admin/yith-wapo-new-option.php:44
+msgid "Max"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:339
+#: templates/admin/yith-wapo-new-option.php:48
+msgid "Checked"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:361
+msgid "Hide Label"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:372
+msgid "Hide Option"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:408
+msgid "Add new option"
+msgstr ""
+
+#: templates/admin/yith-wapo-form-option-type.php:422
+msgid "Save this add-on"
+msgstr ""
+
+#: templates/admin/yith-wapo-group-addons.php:33
+msgid "Edit group"
+msgstr ""
+
+#: templates/admin/yith-wapo-group-addons.php:52
+msgid "New Add-on"
+msgstr ""
+
+#: templates/admin/yith-wapo-group-addons.php:80
+msgid "with"
+msgstr ""
+
+#: templates/admin/yith-wapo-group-addons.php:82
+msgid ""
+"In order to show the Add-On, ensure you set a title,\n"
+"\t\t\t\t\t\t\t\t\tcreated at least one option and you gave a name to it"
+msgstr ""
+
+#: templates/admin/yith-wapo-group-addons.php:139
+msgid "Save add-ons order"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:30
+#: templates/admin/yith-wapo-groups.php:173
+msgid "Manage Add-ons"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:32
+msgid "New group"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:51
+#: templates/admin/yith-wapo-groups.php:67
+msgid "Products"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:56
+#: templates/admin/yith-wapo-groups.php:68
+msgid "Categories"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:106
+msgid "Priority Order"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:111
+#: templates/admin/yith-wapo-groups.php:71
+msgid "Vendor"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:121
+#: templates/admin/yith-wapo-groups.php:73
+msgid "Visibility"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:124
+msgid "Hidden"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:125
+#: templates/admin/yith-wapo-groups.php:50
+msgid "Administrators only"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:131
+msgid "Public"
+msgstr ""
+
+#: templates/admin/yith-wapo-group.php:139
+msgid "Save group"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:24
+msgid "Groups"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:28
+msgid "Complete list of product option groups."
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:47
+msgid "Hidden groups"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:53
+#: templates/admin/yith-wapo-groups.php:56
+msgid "Public groups"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:69
+msgid "Attributes"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:90
+msgid "add-ons"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:112
+#: templates/admin/yith-wapo-groups.php:131
+msgid "All"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:192
+msgid "Switch to the new 2.0 version"
+msgstr ""
+
+#: templates/admin/yith-wapo-groups.php:194
+msgid "You will not lose the current configuration of your add-ons."
+msgstr ""
+
+#: templates/admin/yith-wapo-new-option.php:6
+msgid "Save to set image!"
+msgstr ""
+
+#: templates/admin/yith-wccl-description-field.php:28
+#: templates/admin/yith-wccl-description-field.php:42
+msgid "Product attribute description."
+msgstr ""
+
+#: templates/front/addons/checkbox.php:55 templates/front/addons/color.php:70
+#: templates/front/addons/date.php:178 templates/front/addons/file.php:67
+#: templates/front/addons/label.php:121 templates/front/addons/text.php:56
+msgid "This option is required."
+msgstr ""
+
+#: templates/front/addons/date.php:443
+msgid "Set time"
+msgstr ""
+
+#: templates/front/addons/file.php:56
+msgid "browse"
+msgstr ""
+
+#: templates/front/addons/file.php:58
+msgid "UPLOAD"
+msgstr ""
+
+#: templates/front/addons/product.php:104
+msgid "in stock"
+msgstr ""
+
+#: templates/front/addons/product.php:106
+msgid "In stock"
+msgstr ""
+
+#: templates/front/addons/product.php:110
+msgid "Out of stock"
+msgstr ""
+
+#: templates/front/block.php:35
+msgid "No title"
+msgstr ""
+
+#: templates/front/block.php:117
+msgid "Select an option"
+msgstr ""
+
+#: templates/front/block.php:157
+msgid "Please select"
+msgstr ""
+
+#: templates/front/block.php:158
+msgid "an"
+msgstr ""
+
+#: templates/frontend/yith-wapo-group-container.php:68
+msgid " including VAT "
+msgstr ""
+
+#: templates/frontend/yith-wapo-group-container.php:77
+msgid "Additional options total:"
+msgstr ""
+
+#: templates/frontend/yith-wapo-group-container.php:81
+msgid "Order total:"
+msgstr ""
+
+#: templates/frontend/yith-wapo-group-type.php:45
+#: templates/yith-wccl-variable-loop.php:36
+msgid "Choose an option"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Product Add-ons & Extra Options Premium"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-product-add-ons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "<code><strong>YITH WooCommerce Product Add-ons & Extra Options</strong></code> is the plugin that allows you to create new options for WooCommerce products. <a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for your e-commerce shop on <strong>YITH</strong></a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "YITH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr ""

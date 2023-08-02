@@ -1,0 +1,332 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Load Group Attributes Product\n"
+"POT-Creation-Date: 2019-04-30 12:00+0430\n"
+"PO-Revision-Date: 2019-04-30 12:31+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-load-group-attributes-product.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-woolgap-admin-post-type.php:44
+#: includes/class-woolgap-admin-post-type.php:45
+#: includes/class-woolgap-admin-post-type.php:56
+#: views/html-df-select-product.php:4
+msgid "Default Attribute"
+msgstr "دسته بندی وِیژگی ها"
+
+#: includes/class-woolgap-admin-post-type.php:46
+#: includes/class-woolgap-admin-post-type.php:47
+msgid "Add New Default Attribute"
+msgstr "افزودن جدید"
+
+#: includes/class-woolgap-admin-post-type.php:48
+msgid "Edit Default Attribute"
+msgstr "ویرایش دسته بندی"
+
+#: includes/class-woolgap-admin-post-type.php:49
+msgid "New Default Attribute"
+msgstr "دسته بندی جدید"
+
+#: includes/class-woolgap-admin-post-type.php:50
+msgid "All Default Attribute"
+msgstr "دسته بندی ویژگی ها"
+
+#: includes/class-woolgap-admin-post-type.php:51
+msgid "View Default Attribute"
+msgstr "نمایش دسته بندی وِیژگی ها"
+
+#: includes/class-woolgap-admin-post-type.php:52
+msgid "Search Default Attribute"
+msgstr "جستجو"
+
+#: includes/class-woolgap-admin-post-type.php:53
+msgid "No Default Attribute found"
+msgstr "برای جستجوی شما دسته بندی یافت نشد"
+
+#: includes/class-woolgap-admin-post-type.php:54
+msgid "No Default Attribute found in Trash"
+msgstr "برای جستجوی شما دسته بندی یافت نشد"
+
+#: includes/class-woolgap-admin-post-type.php:55
+msgid "Parent Default Attribute:"
+msgstr "دسته بندی ویژگی ها :"
+
+#: includes/class-woolgap-admin-post-type.php:76
+#: includes/class-woolgap-admin-post-type.php:184
+msgid "Attributes"
+msgstr "ویژگی"
+
+#: views/html-ajax-load-attributes.php:8
+msgid "Check All"
+msgstr "انتخاب همه"
+
+#: views/html-ajax-load-attributes.php:30
+msgid "Not Found"
+msgstr "برای جستجوی شما دسته بندی یافت نشد"
+
+#: views/html-df-select-product.php:2
+msgid "Load"
+msgstr "بارگذاری"
+
+#: views/html-df-select-product.php:17
+msgid "Add Group"
+msgstr "افزودن گروه جدید"
+
+#: views/html-modal-load-attributes.php:6
+msgid "Add Attributes"
+msgstr "افزودن"
+
+#: views/html-modal-load-attributes.php:20
+#: views/html-product-data-attributes.php:150
+msgid "Add"
+msgstr "افزودن"
+
+#: views/html-product-attribute.php:8 views/html-product-data-attributes.php:43
+#: views/html-product-data-attributes.php:116
+msgid "Remove"
+msgstr "پاک کردن"
+
+#: views/html-product-attribute.php:9 views/html-product-data-attributes.php:44
+#: views/html-product-data-attributes.php:117
+msgid "Click to toggle"
+msgstr ""
+
+#: views/html-product-attribute.php:17
+#: views/html-product-data-attributes.php:51
+#: views/html-product-data-attributes.php:124
+msgid "Name"
+msgstr ""
+
+#: views/html-product-attribute.php:29
+#: views/html-product-data-attributes.php:59
+#: views/html-product-data-attributes.php:130
+msgid "Value(s)"
+msgstr ""
+
+#: views/html-product-attribute.php:40
+#: views/html-product-data-attributes.php:61
+msgid "Select terms"
+msgstr ""
+
+#: views/html-product-attribute.php:56
+#: views/html-product-data-attributes.php:77
+msgid "Select all"
+msgstr "انتخاب همه"
+
+#: views/html-product-attribute.php:57
+#: views/html-product-data-attributes.php:77
+msgid "Select none"
+msgstr ""
+
+#: views/html-product-attribute.php:58
+#: views/html-product-data-attributes.php:79
+msgid "Add new"
+msgstr "افزودن جدید"
+
+#. translators: %s: WC_DELIMITER
+#: views/html-product-attribute.php:66
+#, php-format
+msgid "Enter some text, or some attributes by \"%s\" separating values."
+msgstr ""
+
+#: views/html-product-attribute.php:74
+#: views/html-product-data-attributes.php:104
+#: views/html-product-data-attributes.php:136
+msgid "Visible on the product page"
+msgstr ""
+
+#: views/html-product-attribute.php:80
+msgid "Used for variations"
+msgstr ""
+
+#: views/html-product-data-attributes.php:9
+msgid "Close all"
+msgstr "بستن"
+
+#: views/html-product-data-attributes.php:9
+msgid "Expand all"
+msgstr "گسترش"
+
+#: views/html-product-data-attributes.php:92
+msgid "Pipe (|) separate terms"
+msgstr ""
+
+#: views/html-product-data-attributes.php:131
+msgid "Enter some text, or some attributes by pipe (|) separating values."
+msgstr ""
+
+#: views/html-product-data-attributes.php:152
+msgid "Custom product attribute"
+msgstr ""
+
+#: woocommerce-load-group-attributes-product.php:250
+msgid ""
+"WooCommerce Load Group Attributes Product is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Load Group Attributes Product"
+msgstr "لود گروهی ویژگی های محصول"
+
+#. Description of the plugin/theme
+msgid ""
+"Define default attributes to be automatically added in WooCommerce new "
+"product page."
+msgstr ""
+"خصوصیات پیش فرض را تعریف کنید تا به طور خودکار در صفحه محصول جدید اضافه شود."
+
+#. Author of the plugin/theme
+msgid "AliZarei"
+msgstr "علی  زارعی"
+
+#. Author URI of the plugin/theme
+msgid "http://www.alizarei.ir"
+msgstr ""
+
+#~ msgid "text field"
+#~ msgstr "کادر متنی"
+
+#~ msgid "select field"
+#~ msgstr "فیلد انتخابی"
+
+#~ msgid "loop field"
+#~ msgstr "فیلد افزایشی"
+
+#~ msgid "Show All Group"
+#~ msgstr "نمایش همه گروه ها"
+
+#~ msgid "Group Default Attribute"
+#~ msgstr "گروه مادر دسته بندی ها"
+
+#~ msgid "Add New Group"
+#~ msgstr "افزودن گروه جدید"
+
+#~ msgid "import"
+#~ msgstr "وارد کردن"
+
+#~ msgid "Welcome"
+#~ msgstr "خوش آمدید"
+
+#~ msgid "Welcome to WooCommerce Attributes Content Management!"
+#~ msgstr "افزونه مدیریت محتوای ویژگی محصولات فعال شد!"
+
+#~ msgid ""
+#~ "Use this plugin to create a powerful database of product features and "
+#~ "modify it to your liking and easily add to your product page with one "
+#~ "click."
+#~ msgstr ""
+#~ "با استفاده از این افزونه یک بانک اطلاعاتی قدرتمند از ویژگی محصولات خود "
+#~ "ایجاد کنید و آن را به میل خود اصلاح کنید و به راحتی با یک کلیک به صفحه "
+#~ "محصولات خود اضافه کنید."
+
+#~ msgid "Add first category"
+#~ msgstr "اولین دسته بندی رو اضافه کنید"
+
+#~ msgid "Education Video"
+#~ msgstr "فیلم آموزشی"
+
+#~ msgid "Education Step-Step"
+#~ msgstr "آموزش گام به گام"
+
+#~ msgid "cf"
+#~ msgstr " مقدارپیش فرض"
+
+#~ msgid "Add Field"
+#~ msgstr "افزودن فیلد جدید"
+
+#~ msgid "Add Value"
+#~ msgstr "مقدار جدید"
+
+#~ msgid "final_value"
+#~ msgstr "مقدار نهایی"
+
+#~ msgid "Disable Plugin"
+#~ msgstr "غیر فعال کردن افزونه"
+
+#~ msgid ""
+#~ "Always removing the information generated by WordPress plugins when "
+#~ "removing the plugin is one of the major issues on WordPress sites, which "
+#~ "is a minor addition to this issue. Surely you've come to the point that "
+#~ "you need an extension that cleans up the information you have left"
+#~ msgstr ""
+#~ "همیشه حذف اطلاعات تولید شده توسط افزونه های وردپرسی در هنگام حذف همان "
+#~ "افزونه یکی از مسائل مهم در سایت‌های وردپرسی می باشد که کمتر افزونه ای به "
+#~ "این موضوع اهمیت میدهد"
+
+#~ msgid ""
+#~ "But this plugin has the ability to delete your data when removing the "
+#~ "plugin"
+#~ msgstr "اما این پلاگین توانایی حذف داده های خود را هنگام حذف افزونه دارد"
+
+#~ msgid ""
+#~ "Just note that if you click the check box below and delete the plugin"
+#~ msgstr "فقط توجه داشته باشید که اگر تیک زیر را بزنید و افزونه را حذف کنید"
+
+#~ msgid "You will no longer be able to retrieve the current generated data"
+#~ msgstr "دیگر قادر به بازیابی اطلاعات فعلی تولید شده نخواهید بود"
+
+#~ msgid ""
+#~ "If you intend to reuse this plugin, you do not need to click the down "
+#~ "arrow"
+#~ msgstr ""
+#~ "اگر قصد استفاده مجدد از این افزونه را دارید، لازم نیست تیک پایین را بزنید"
+
+#~ msgid "yes I agree , remove data after uninstall plugin"
+#~ msgstr "بله موافقم , داده ها را پس از حذف پلاگین حذف کنید"
+
+#~ msgid "Close"
+#~ msgstr "بستن"
+
+#~ msgid "Import Data"
+#~ msgstr "افزودن اطلاعات"
+
+#~ msgid "Dismiss the welcome panel"
+#~ msgstr "بستن پنجره خوش آمدگویی"
+
+#~ msgid "Dismiss"
+#~ msgstr "بستن"
+
+#~ msgid "details"
+#~ msgstr "معرفی افزونه"
+
+#~ msgid "educational video"
+#~ msgstr "فیلم آموزشی"
+
+#~ msgid "page zhaket"
+#~ msgstr "ژاکت"
+
+#~ msgid "support"
+#~ msgstr "پشتیبانی"
+
+#~ msgid "comments"
+#~ msgstr "نظرات"
+
+#~ msgid ""
+#~ "View the help documentation for Woocommerce Attributes Content Management"
+#~ msgstr "نمایش رهنمای استفاده از افزونه مدیریت محتوای ویژگی محصولات"
+
+#~ msgid "Help"
+#~ msgstr "راهنما"
+
+#~ msgid ""
+#~ "Define default attributes to be automatically added in WooCommerce new "
+#~ "product page. , Easily add custom fields to your attributes value  and "
+#~ "add value them in the product admin, the My product section"
+#~ msgstr ""
+#~ "ویژگی های محصولات را دسته بندی کنید تا به راحتی در صفحه محصول جدید "
+#~ "بارگذاری کنید"

@@ -1,0 +1,20 @@
+.post-type-w_default_attributes .show_if_variable {
+    display: none !important;
+}
+
+.post-type-w_default_attributes .column-attrs span,
+.post-type-w_default_attributes .column-attrs strong {
+    float: right;
+    direction: rtl;
+    text-align: right;
+    margin-left: 10px;
+
+}
+
+#form_load_attributes span {
+
+    width: 200px !important;
+    float: right !important;
+    margin: 10px 5px 0 0 !important;
+    padding: 0 !important;
+}

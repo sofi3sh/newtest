@@ -1,0 +1,67 @@
+// ------------------------------------------------------------------------------------
+// ADMINBAR
+// ------------------------------------------------------------------------------------
+
+@if $base-adminbar {
+
+	#wp-admin-bar-xts_dashboard {
+
+		.ab-item {
+
+			i {
+				font-style: normal;
+
+				margin-inline-end: 5px;
+			}
+		}
+
+		> .ab-item {
+			display: flex !important;
+			align-items: center;
+
+			img {
+				max-width: 18px;
+				max-height: 18px;
+
+				margin-inline-end: 5px;
+			}
+
+			&:before {
+				@include font-icon($xts-icon-logo-woodmart);
+			}
+		}
+
+		.wd-white-label-img & {
+
+			> .ab-item {
+
+				&:before {
+					display: none;
+				}
+			}
+		}
+	}
+
+	#wp-admin-bar-xts_theme_settings {
+
+		> .ab-sub-wrapper {
+
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				padding-bottom: 10px;
+				width: 500px;
+
+				li {
+					width: 33.3333333%;
+
+					a {
+						overflow: hidden;
+						text-overflow: ellipsis;
+					}
+				}
+			}
+		}
+	}
+
+} // END IF
